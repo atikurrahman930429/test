@@ -1,0 +1,145 @@
+*{}
+ header{
+    overflow: hidden;
+}
+.logo{
+    width: 50%;
+    float: left;
+    text-transform: uppercase;
+    font-size: xx-large;
+    padding: 35px 0;
+}
+.logo a{
+    color: black;
+    padding: -1px 0;
+}
+.manu {
+    width: 50%;
+    display: inline-block;
+}
+.manu .nav {}
+.manu .nav .nav-item{}
+.manu .nav .nav-link{
+    text-transform: uppercase;
+    padding: 45px 34px;
+    color: black;
+}
+.imege{}
+.imege img{
+    width: 100%;
+    height: 450px;
+    margin-bottom: 50px;
+}
+.photodaidy{
+    padding: 0 60px;
+}
+.photodaidy h6{
+    color: #d3cfcf;
+    padding: 18px 0;
+}
+.photodaidy h1{
+    margin-bottom: 21px;
+}
+.photodaidy p{
+    margin-bottom: 31px;
+}
+.photodaidy span{
+    color: #d3cfcf;
+}
+.lifestyle .fas{}
+.lifestyle{
+    margin: 93px 1px;
+}
+.lifestyle .fas img{}
+.lifestyle  h6{
+    color: #e0dbdb;
+    margin: 15px 0;
+}
+.lifestyle  h1{}
+.lifestyle  p{}
+.lifestyle .coffi{}
+.lifestyle .coffi img{}
+.news{
+    background: beige;
+    margin: 73px 0;
+}
+.news h3{
+    display: block;
+    text-align: center;
+    padding-top: 96px;
+}
+.news p{
+    text-align: center;
+    /* border-bottom: 1px solid; */
+    padding-bottom: 97px;
+    display: block;
+}
+.news p a{}
+.news p a i{}
+.style{
+    margin-bottom: 80px;
+}
+.style .song{}
+.style .song img{
+    margin-bottom: 20px;
+}
+.style .cold img{
+    margin-bottom: 20px;
+}
+
+.style h6{
+    color: #bab8b8;
+}
+.style h1{
+    margin: 9px 0px;
+}
+.style p{}
+footer{
+    overflow: hidden;
+    background: whitesmoke;
+    padding: 0px 1px;
+    margin-top: 80px;
+}
+footer .tream{
+    float: left;
+    width: 82%;
+    margin-left: 150px;
+    padding: 2px 0px;
+    margin: 50px 35px;
+    /* margin-top: 27px; */
+}
+footer .tream li{}
+footer .tream li a{
+    text-transform: capitalize;
+}
+footer .social li{
+    padding: 6px 5px;
+    margin-top: 50px;
+}
+footer .social li a{}
+footer .social li a i{}
+footer .social p{
+    padding: 6px 0px;
+    margin: 48px 0;
+}
+
+
+
+
+.bottom{}
+.bottom .btn-custom{
+    border: 1px solid;
+    display: block;
+    margin: 0 auto;
+}
+
+.photo{}
+.photo .amarica{}
+.photo h1{}
+.photo h6{
+    color: #e0dbdb;
+    margin: 15px 0;
+}
+.photo p{}
+.photo .day{}
+
